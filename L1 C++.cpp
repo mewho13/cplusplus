@@ -5,7 +5,7 @@ int global;
 
 int main()
 {
-    //variabile locale
+    //variabile loc
     int a=20;
     int A=50;
     //    <-
